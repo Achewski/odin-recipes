@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0,225,255);
+    background-color: hsl(200, 100%, 65%);
     text-align: center;
 }
 
@@ -19,13 +19,13 @@ li{
 }
 
 #cake, #cake a{
-    color: rgb(255,225,175);
+    color: hsl(45, 50%, 30%);
 }
 
 #burritos, #burritos a{
-    color: rgb(255,255,225);
+    color: hsl(45,100%,85%);
 }
 
 #potato, #potato a{
-    color: rgb(225,255,200);
+    color: hsl(100, 100%, 85%);
 }
