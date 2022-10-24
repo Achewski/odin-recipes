@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0,225,255);
+    text-align: center;
+}
+
+#page-title {
+    font-family: "Courier New", sans-serif;
+    font-size: 100px;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+li{
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 65px;
+}
+
+#cake, #cake a{
+    color: rgb(255,225,175);
+}
+
+#burritos, #burritos a{
+    color: rgb(255,255,225);
+}
+
+#potato, #potato a{
+    color: rgb(225,255,200);
+}
